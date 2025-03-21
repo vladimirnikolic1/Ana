@@ -1,6 +1,6 @@
 # Ana
 
-![Image](docs/i1.png)
+![Image](docs/image1.png)
 
 Ana (Cyrillic: Ана) is a version of the female given name Anna meaning "favour" or "grace".
 
@@ -11,6 +11,6 @@ Axis | Tag | Default | Static Instances
 --- | --- | --- | ---
 Weight | wght | 400 | Regular
 
-![Image](docs/i2.png)
+![Image](docs/image2.png)
 
 
