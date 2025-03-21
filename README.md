@@ -11,6 +11,5 @@ Axis | Tag | Default | Static Instances
 --- | --- | --- | ---
 Weight | wght | 400 | Regular
 
-![Image](docs/image2.png)
 
 
