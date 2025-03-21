@@ -2,7 +2,7 @@
 
 ![Image](docs/i1.png)
 
-In Croatia, the name Ana was the second most common feminine given name, or among the top ten most common, in almost all decades for which there is census data.
+Ana (Cyrillic: Ана) is a version of the female given name Anna meaning "favour" or "grace".
 
 ## Variable Font Axe
 Ana has the following axe:
