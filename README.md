@@ -13,6 +13,4 @@ Weight | wght | 400 | Regular
 
 ## License
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is available with a FAQ at [https://openfontlicense.org](https://openfontlicense.org)
-
+This Font Software is licensed under the OFL-1.1 license
